@@ -467,7 +467,7 @@ Videoda Plotter Cihazı ve Uygulamanın nasıl izdüşüm çıkardığı anlatı
 
 >[!IMPORTANT] ÖNEMLİ
 >Her çalışma sırasında **Core** uygulamasının verdiği ölçüler ile arabanın/parçanın gerçek boyut değerlerinin incelenmesi gerekmektedir.
->![[measuring_gif.gif|400]]
+
 
 
 ![[summa_1.png|227]]
