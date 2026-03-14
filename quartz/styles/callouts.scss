@@ -185,3 +185,37 @@
     font-weight: $semiBoldWeight;
   }
 }
+
+.page-title {
+  img {
+    transition: transform 0.2s ease;
+    &:hover {
+      transform: scale(1.05); // Üzerine gelince hafif büyüme efekti
+    }
+  }
+  
+  a {
+    display: flex;
+    flex-direction: column; // Logo üstte, yazı altta
+    align-items: flex-start;
+    text-decoration: none;
+  }
+}
+
+/* Mobilde görsellerin ve videoların taşmasını engelle */
+article img, 
+article video, 
+article gif,
+article iframe {
+  max-width: 100% !important; /* Ekran genişliğinin dışına çıkma */
+  height: auto !important;     /* Oranı koruyarak yüksekliği ayarla */
+  display: block;
+  margin: 1rem auto;           /* Ortala ve alt-üst boşluk bırak */
+  border-radius: 8px;          /* İsteğe bağlı: Köşeleri yumuşatır */
+}
+
+/* Tabloların mobilde yana doğru kaydırılabilir olması için */
+.table-container {
+  overflow-x: auto;
+  display: block;
+}
