@@ -131,7 +131,11 @@ Buradaki örnekte bir tane aracın PPF yapılması sırasında listelerden seçi
 
 Kesim tahtası ayarlanırken dikkat edilmesi konular videoda gösterilmiştir. 
 
-<video src="./Media/part_adding.mov" controls width=200></video>
+
+<video controls width="200"> 
+	<source src="./media/part_adding.mp4" type="video/mp4"> 
+	<source src="./media/part_adding.mov" type="video/quicktime"> 
+</video>
 
 
 Kesim tahtası ayarlanırken sınıflar bu şekilde listelenmiştir.
@@ -461,8 +465,10 @@ Kesim paneli (cut board), desenleriniz üzerinde temel dönüştürme (transform
 
 Videoda Plotter Cihazı ve Uygulamanın nasıl izdüşüm çıkardığı anlatılmıştır.   
 
-<video src="./Media/plotter_referance_line.mov" controls width=400></video>
-
+<video controls width="200"> 
+	<source src="./media/plotter_referance_line.mp4" type="video/mp4"> 
+	<source src="./media/plotter_referance_line.mov" type="video/quicktime"> 
+</video>
 ## Summa Plotter - Konfigurasyon
 
 >[!IMPORTANT] ÖNEMLİ
