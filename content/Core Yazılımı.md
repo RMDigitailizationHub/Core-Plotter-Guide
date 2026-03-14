@@ -469,6 +469,7 @@ Videoda Plotter Cihazı ve Uygulamanın nasıl izdüşüm çıkardığı anlatı
 	<source src="./media/plotter_referance_line.mp4" type="video/mp4"> 
 	<source src="./media/plotter_referance_line.mov" type="video/quicktime"> 
 </video>
+
 ## Summa Plotter - Konfigurasyon
 
 >[!IMPORTANT] ÖNEMLİ
