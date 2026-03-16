@@ -4,7 +4,7 @@ tags:
   - summa
   - plotter
   - guide
-date: 2025-01-01
+date: 2026-03-16
 ---
 
 # Summa Plotter — Konfigürasyon

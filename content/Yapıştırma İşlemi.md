@@ -2,6 +2,7 @@
 title: PPF — Yapıştırıcı Özellikleri
 tags:
   - tools
+date: 2026-03-14
 ---
 
 # Llumar

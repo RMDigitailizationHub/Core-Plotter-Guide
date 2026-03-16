@@ -3,7 +3,7 @@ title: Yazılım Rehberi
 tags:
   - guide
   - index
-date: 2025-01-01
+date: 2026-03-14
 ---
   
 # Yazılım Rehberi
