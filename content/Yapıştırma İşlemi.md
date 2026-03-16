@@ -1,3 +1,9 @@
+---
+title: PPF — Yapıştırıcı Özellikleri
+tags:
+  - tools
+---
+
 # Llumar
 
 Koruyucu -> Hidrofobik Katman -> Poliüretan Film -> Yapışkan -> Jelatin

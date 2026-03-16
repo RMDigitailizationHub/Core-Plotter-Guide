@@ -2,3 +2,17 @@
 @use "./themes";
 
 // put your custom CSS here!
+table {
+  width: 95% !important;
+  table-layout: auto; /* İçeriğin genişliğe yayılmasına izin verir */
+  display: table;     /* Block düzeninden tablo düzenine geri döndürür */
+  border-collapse: collapse !important; /* Çizgilerin birleşmesini sağlar */
+  border: 1px solid var(--lightgray) !important; /* Tablonun dış çerçevesi */
+}
+
+th, td {
+  white-space: normal; /* Kelimelerin çok daralmasını engeller */
+  word-break: normal;  /* Kelimeyi ortadan bölmez */
+  padding: 8px 12px;       /* Okunabilirlik için boşluk bırakır */
+  border: 1px solid var(--lightgray) !important; /* Hücreler arası dikey ve yatay çizgiler */
+}
